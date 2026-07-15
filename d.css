@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* .wrapper {
+.wrapper {
   display: grid;
     grid-template-columns: repeat(3,1fr);
     gap:20px;
@@ -33,17 +33,6 @@ p {
   animation-direction: alternate;
 } */ 
 
-/* @keyframes grow-shrink {
-  25%,
-  75% {
-    scale: 100%;
-  }
-
-  50% {
-    scale: 200%;
-    color: magenta;
-  }
-} */
 p {
   animation-duration: 3s;
   animation-name: slide-in;
